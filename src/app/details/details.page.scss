@@ -1,0 +1,16 @@
+.card-content {
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .card-content img {
+    width: 100px;
+    height: auto;
+    margin-right: 16px;
+  }
+  
+  .text-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }

@@ -1,0 +1,16 @@
+.card-content {
+    display: flex;
+    align-items: flex-start; /* Align items at the top */
+  }
+  
+  .card-content img {
+    width: 100px; /* Adjust the width as needed */
+    height: auto;
+    margin-right: 16px; /* Space between the image and the text */
+  }
+  
+  .text-content {
+    display: flex;
+    flex-direction: column; /* Stack the header and content vertically */
+    justify-content: center; /* Align text content to the center */
+  }

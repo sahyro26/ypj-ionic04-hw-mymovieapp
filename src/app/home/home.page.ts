@@ -7,6 +7,8 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+  url: string = "https://www.freeiconspng.com/thumbs/movie-icon/movie-icon-6.png"
+
   constructor() {}
 
 }
